@@ -69,8 +69,8 @@ Do not forget to hit `Save` in order for changes to reflect.
 
 ## Troubleshooting
 
-Reach out to me by any means if facing any issues or if you have any feedback. As a simple hack for most issues, try turning it off and on again, i.e., reload the extension in your Chrome settings.
-```
+Reach out to me at [avijit.thawani@gmail.com](mailto:avijit.thawani@gmail.com) if facing any issues or if you have any feedback. As a simple hack for most issues, try turning it off and on again, i.e., reload the extension in your Chrome settings.
+
 <!--_For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 <!-- ROADMAP -->
@@ -80,10 +80,6 @@ Reach out to me by any means if facing any issues or if you have any feedback. A
 <!-- LICENSE -->
 
 <!-- CONTACT -->
-## Contact
-
-- Avijit Thawani - [avijit.thawani@gmail.com](mailto:avijit.thawani@gmail.com)
-- Ashwin Kalyan (mentor)
 
 <!--Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)-->
 
